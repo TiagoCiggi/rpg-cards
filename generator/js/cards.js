@@ -287,8 +287,8 @@ function card_element_swstats(params, card_data, options) {
     var result = "";
     result += '<table class="card-stats' + card_font_size_class + '">';
     result += '    <tbody><tr>';
-    result += '      <th class="card-stats-header">Agility</th>';
-    result += '      <th class="card-stats-header">Smarts</th>';
+    result += '      <th class="card-stats-header">Agilidade</th>';
+    result += '      <th class="card-stats-header">Astúcia</th>';
     result += '      <th class="card-stats-header">Spirit</th>';
     result += '      <th class="card-stats-header">Strength</th>';
     result += '      <th class="card-stats-header">Vigor</th>';
